@@ -5,7 +5,7 @@
 While many might understand or relate "Artificial Intelligence" to **Terminator** like this:
 
 <p align="center"> 
-  <img src="website/img/terminator.jpg" alt="terminator">
+  <img src="img/terminator.jpg" alt="terminator">
   <br>Source from: <a href="https://shkspr.mobi/blog/wp-content/uploads/2018/07/The-Terminator-is-a-terrifying-metal-skeleton-with-glowing-red-eyes.jpg">Google Image</a>
 </p>
 
