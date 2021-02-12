@@ -1,6 +1,6 @@
 ## Welcome to Explainable AI!
 
-**Explainable AI** stands for **Explainable *Artificial Intelligence***.<br>
+**Explainable AI** stands for **Explainable Artificial Intelligence**.<br>
 While many might understand or relate "Artificial Intelligence" to **Terminator** like this:
 
 <p align="center"> 
@@ -8,9 +8,9 @@ While many might understand or relate "Artificial Intelligence" to **Terminator*
   <br>Source from: <a href="https://shkspr.mobi/blog/wp-content/uploads/2018/07/The-Terminator-is-a-terrifying-metal-skeleton-with-glowing-red-eyes.jpg">Google Image</a>
 </p>
 
-Artificial Intelligence in actuality however does not directly refer to robots, machineries, or intelligent bodies like such. In fact, Artificial Intelligence is a technical term with broad meanings, and includes many varied branches of studies -- with Deep Learning being at one of its cores.
+Artificial Intelligence in actuality however does not directly refer to robotics, machineries, or intelligent bodies like such, but is commonly thought of more of as algorithms like below. 
 
-Deep learning is prevalently used in a number of prediction and recognition tasks nowadays. This project therefore aims to make Artificial Intelligence, specifically Deep Learning, more interpretable to the great users -- to allow more trust and understandings into systems like such.
+In fact, Artificial Intelligence is a technical term that  with broad meanings, and includes many varied branches of studies -- with Deep Learning being at one of its cores.Deep learning is prevalently used in a number of prediction and recognition tasks today. This project therefore aims to make Artificial Intelligence, specifically Deep Learning, more interpretable to the great users -- to allow more trust and understandings into intelligent systems like such.
 
 ### Markdown
 
