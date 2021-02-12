@@ -8,9 +8,12 @@ While many might understand or relate "Artificial Intelligence" to **Terminator*
   <br>Source from: <a href="https://shkspr.mobi/blog/wp-content/uploads/2018/07/The-Terminator-is-a-terrifying-metal-skeleton-with-glowing-red-eyes.jpg">Google Image</a>
 </p>
 
-Artificial Intelligence in actuality however does not directly refer to robotics, machineries, or intelligent bodies like such, but is commonly thought of more of as algorithms like below. 
+Artificial Intelligence in actuality however does not directly refer to robotics, machineries, or intelligent bodies like such, but may be more appositely described as algorithms of various forms. 
+<p align="center">
+  <img src="img/ai1.png" alt="ai1"> <img src="img/ai2.jpg" alt="ai2">
+  </p>
 
-In fact, Artificial Intelligence is a technical term that  with broad meanings, and includes many varied branches of studies -- with Deep Learning being at one of its cores.Deep learning is prevalently used in a number of prediction and recognition tasks today. This project therefore aims to make Artificial Intelligence, specifically Deep Learning, more interpretable to the great users -- to allow more trust and understandings into intelligent systems like such.
+In fact, Artificial Intelligence is a technical term with broad meanings, and includes many varied branches of studies -- with Deep Learning being at one of its cores. It is a function that mimics the workings of human brain neuro activities and is prevalently used in a number of prediction and recognition tasks today. This project therefore aims to make Artificial Intelligence, specifically Deep Learning, more interpretable to the great users -- to allow more trust and understandings into intelligent systems like such.
 
 ### Markdown
 
