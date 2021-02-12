@@ -1,7 +1,6 @@
 ## Welcome to Explainable AI!
 
-**Explainable AI** stands for **Explainable *Artificial Intelligence***.
-
+**Explainable AI** stands for **Explainable *Artificial Intelligence***.<br>
 While many might understand or relate "Artificial Intelligence" to **Terminator** like this:
 
 <p align="center"> 
