@@ -17,6 +17,8 @@ In fact, Artificial Intelligence is a technical term with broad meanings, and in
 
 This project therefore aims to make Artificial Intelligence, specifically Deep Learning, more interpretable to the great users -- to allow more trust and understandings into intelligent systems like such.
 
+We now make Stock Predictions explainable!
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
