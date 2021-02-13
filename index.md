@@ -19,6 +19,9 @@ This project therefore aims to make Artificial Intelligence, specifically Deep L
 
 We now make Stock Predictions explainable!
 
+### Stock Market
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
