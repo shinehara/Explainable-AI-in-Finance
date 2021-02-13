@@ -1,6 +1,7 @@
 ## Navigation 
 - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance">HomePage</a>
 - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/abstract">Project Abstract</a>
+  - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/abstract">Introduction</a>
 
 ## Welcome to Explainable AI!
 
