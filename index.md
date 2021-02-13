@@ -1,4 +1,7 @@
 ## Welcome to Explainable AI!
+<hr>
+Navigational Bar:
+- 
 
 **Explainable AI** stands for **Explainable Artificial Intelligence**.<br>
 While many might understand or relate "Artificial Intelligence" to **Terminator** like this:
@@ -17,7 +20,7 @@ In fact, Artificial Intelligence is a technical term with broad meanings, and in
 
 This project therefore aims to make Artificial Intelligence, specifically Deep Learning, more interpretable to the great users -- to allow more trust and understandings into intelligent systems like such.
 
-We now make Stock Predictions explainable!
+More specifically, we now make STOCK PREDICTIONS EXPLAINABLE!
 
 ### Stock Market
 
