@@ -22,7 +22,7 @@ Artificial Intelligence in actuality however does not directly refer to robotics
 <p align="justify">
 In fact, Artificial Intelligence is a technical term with broad meanings, and includes many varied branches of studies -- with Deep Learning being at one of its cores. It is a function that mimics the workings of human brain neuro activities and is prevalently used in a number of prediction and recognition tasks today. <br><br>
 This project therefore aims to make Artificial Intelligence, specifically Deep Learning, more interpretable to the great users -- to allow more trust and understandings into intelligent systems like such.<br><br>
-Excitingly, this project forms its basis on <b>Stock Predictions</b> and today, we not only make stock forecasting with machine learning accessible to everybody, but also make these projected outcomes <b>INTERPRETABLE</b>!
+Excitingly, this project forms its basis on <b>Stock Predictions</b> and today, we not only make stock forecasting with machine learning accessible to everybody, but also make these projected outcomes <b>INTERPRETABLE</b>!</p>
 
 ### Support or Contact
 
