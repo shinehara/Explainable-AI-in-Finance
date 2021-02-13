@@ -1,7 +1,6 @@
 ## What is this project about?
 
-- <a>Project Abstract</a>
-<hr>
+- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/abstract">Project Abstract</a>
 
 ### Deep Learning Algorithm
 <p align="center"> 
