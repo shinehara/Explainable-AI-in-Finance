@@ -8,15 +8,14 @@
 	- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/fastai">Grad-CAM Algorithm</a>
 - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/discussion">Discussion & Conclusion</a>
 
-## Welcome to Explainable AI!
+## Stock Market
 
 <p align="justify">
-  <b>Explainable AI</b> stands for <b>Explainable Artificial Intelligence</b>.<br>
-While many might understand or relate "Artificial Intelligence" to <b>Terminator</b> like this:</p>
+  The stock market is undoubtedly one of the most unpredictable, yet most popular areas for financial investment. Through facilitating exchanges of securities between buyers and sellers, this marketplace creates opportunities of capital gain for participants ranging from small individuals to big entities such as banks or conglomerates. 
 
 <p align="center"> 
-  <img src="img/terminator.jpg" alt="terminator">
-  <br>Source from: <a href="https://shkspr.mobi/blog/wp-content/uploads/2018/07/The-Terminator-is-a-terrifying-metal-skeleton-with-glowing-red-eyes.jpg">Google Image</a>
+  <img src="img/stockmarket.jpg" alt="stockmarket">
+  <br>Source from: <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FhJiRTTT_download-stock-market-icon-png-clipart-stock-market%2F&psig=AOvVaw2yAMdkI2hYqqDvTIPW17Lk&ust=1613316527422000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD27saW5-4CFQAAAAAdAAAAABAI">Google Image</a>
 </p>
 
 <p align="justify">
