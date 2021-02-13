@@ -22,8 +22,6 @@ In fact, Artificial Intelligence is a technical term with broad meanings, and in
 This project therefore aims to make Artificial Intelligence, specifically Deep Learning, more interpretable to the great users -- to allow more trust and understandings into intelligent systems like such.<br><br>
 Excitingly, this project forms its basis on <b>Stock Predictions</b> and today, we not only make stock forecasting with machine learning accessible to everybody, but also make these projected outcomes <b>INTERPRETABLE</b>!
 
-More excitingly: we now make STOCK PREDICTIONS EXPLAINABLE!</p>
-
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
