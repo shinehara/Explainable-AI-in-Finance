@@ -2,6 +2,7 @@
 
 - <a>Project Abstract</a>
 <hr>
+
 ### Deep Learning Algorithm
 <p align="center"> 
   <img src="img/deeplearning.jpg" alt="deeplearning">
