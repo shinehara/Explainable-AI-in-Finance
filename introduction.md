@@ -6,8 +6,8 @@
 
 <p align="justify">
 	<p align="center"> 
-		<img src="img/bigdata.png" alt="bigdata">
-		<br>Deep Neural Networks with complicated architecture: <a href="https://www.tcgdigital.com/wp-content/uploads/2019/03/shutterstock_1113268736-Converted.jpg">Big Data</a>
+		<img src="img/bigdata.jpg" alt="bigdata">
+		<br>Image Source: <a href="https://www.tcgdigital.com/wp-content/uploads/2019/03/shutterstock_1113268736-Converted.jpg">Big Data</a>
 	</p>
 	
   With big data collected at an exponential growing speed today, the automated decision power this information is capable of providing has been recognized and has since been at the forefront of technological developments – especially in the area of Artificial Intelligence. 
