@@ -14,7 +14,7 @@
   The stock market is undoubtedly one of the most unpredictable, yet most popular areas for financial investment. Through facilitating exchanges of securities between buyers and sellers, this marketplace creates opportunities of capital gain for participants ranging from small individuals to big entities such as banks or conglomerates. 
 
 <p align="center"> 
-  <img src="img/stockmarket.jpg" alt="stockmarket">
+  <img src="img/stockmarket.png" alt="stockmarket" width=250>
   <br>Source from: <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FhJiRTTT_download-stock-market-icon-png-clipart-stock-market%2F&psig=AOvVaw2yAMdkI2hYqqDvTIPW17Lk&ust=1613316527422000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD27saW5-4CFQAAAAAdAAAAABAI">Google Image</a>
 </p>
 
