@@ -1,7 +1,6 @@
 ## Welcome to Explainable AI!
 
-Navigational Bar:
-- <a>Project Abstract</a>
+- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/abstract">Project Abstract</a>
 <hr>
 **Explainable AI** stands for **Explainable Artificial Intelligence**.<br>
 While many might understand or relate "Artificial Intelligence" to **Terminator** like this:
