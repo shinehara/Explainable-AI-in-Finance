@@ -6,7 +6,7 @@
 
 <p align="justify">
 	<p align="center"> 
-		<img src="img/bigdata.png" alt="bigdata">
+		<img src="img/bigdata.jpg" alt="bigdata">
 		<br>Deep Neural Networks with complicated architecture: <a href="https://www.tcgdigital.com/wp-content/uploads/2019/03/shutterstock_1113268736-Converted.jpg">Big Data</a>
 	</p>
 	
