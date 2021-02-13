@@ -6,7 +6,7 @@
 <br>
 <p align="center"> 
   <img src="img/deeplearning.jpg" alt="deeplearning">
-  <br>Deep Neural Networks with complicated architecture: <a href="https://i.pinimg.com/originals/b6/ca/80/b6ca80b8613110d1ac09790371c48e6b.jpg">Google Image</a>
+  <br>Deep Neural Networks with complicated architecture: <a href="https://i.pinimg.com/originals/b6/ca/80/b6ca80b8613110d1ac09790371c48e6b.jpg">Image Source</a>
 </p>
 
 ### What is this project about?
