@@ -1,6 +1,3 @@
-layout: page
-title: "Abstract"
-permalink: /abstract/
 ## Project Abstract
 ### What is this project about?
 
