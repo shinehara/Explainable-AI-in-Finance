@@ -1,8 +1,8 @@
 ## Welcome to Explainable AI!
-<hr>
-Navigational Bar:
-- 
 
+Navigational Bar:
+- <a>Project Abstract</a>
+<hr>
 **Explainable AI** stands for **Explainable Artificial Intelligence**.<br>
 While many might understand or relate "Artificial Intelligence" to **Terminator** like this:
 
