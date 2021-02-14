@@ -1,6 +1,13 @@
 ## Navigation 
 - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance">HomePage</a>
-- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/abstract">Project Abstract</a>
+- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/abstract">Project Details</a>
+  - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/introduction">Introduction</a>
+  - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/stockmarket">Stock Market</a>
+  - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/result">Prediction Result</a>
+- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/methodology">Technical Methodology</a>
+	- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/gaf">Gramian Angular Field</a> 
+	- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/fastai">FastAI CNN Model</a>
+	- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/gradcam">Grad-CAM Algorithm</a>
 
 ## What is this project about?
 
@@ -17,3 +24,10 @@
   
   Carry on to read more in detailed <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/abstract">Project Introduction</a>!
   </p>
+
+### Support or Contact
+
+Interested in learning more? Check out our [Documentation](https://github.com/leeso1718/StockMarket_explainableAI) or contact us @
+- [Sohyun Lee](mailto:sol107@ucsd.edu)
+- [Shin Ehara](mailto:sehara@ucsd.edu)
+- [Jou-Ying Lee](mailto:jol067@ucsd.edu)
