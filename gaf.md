@@ -22,4 +22,8 @@
 ## Gramian Angular Field
 <p align="center"><b>Various steps of the Gramian Angular Field Conversion</b><img src = "img/report_img/gdf_step.gif" alt="gdfstep"><br>Image developed by: <a href="https://medium.com/analytics-vidhya/encoding-time-series-as-images-b043becbdbf3">Louis de Vitry</a></p>
 <p align="justify">
-	Gramian Angular Field is an image obtained by transforming time series data. In GAF, <b><i>time series is represented in a polar coordinate system by taking advantage of the Gram Matrix <a href="https://arxiv.org/abs/1506.00327">(Oates and Zhiguang)</a></i></b> . Specifically, the Gram Matrix has a key advantage of preserving the temporal dependency -- <b><i>Since time increases as the position moves from top-left to bottom-right, the time dimension is encoded into the geometry of the matrix <a href=https://medium.com/analytics-vidhya/encoding-time-series-as-images-b043becbdbf3>(Vitry)</a></i></b>.</p>
+	Gramian Angular Field is an image obtained by transforming time series data. In GAF, <b><i>time series is represented in a polar coordinate system by taking advantage of the Gram Matrix <a href="https://arxiv.org/abs/1506.00327">(Oates and Zhiguang)</a></i></b> . Specifically, the Gram Matrix has a key advantage of preserving the temporal dependency -- <b><i>Since time increases as the position moves from top-left to bottom-right, the time dimension is encoded into the geometry of the matrix <a href=https://medium.com/analytics-vidhya/encoding-time-series-as-images-b043becbdbf3>(Vitry)</a></i></b>.
+
+Interested in reading more? Please review our **Report**(add link to report later) for more detailed mathematical explanations!
+</p>
+	
