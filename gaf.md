@@ -26,9 +26,9 @@
 	For demonstration, we continue with the example shown in <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/stockmarket">Stock Market</a>, and display the transformed coordinate data by Gramian Angular Field from stock volatility on January 15th, 2021 as well as the actual image used for modeling converted from these polar coordinates.<br>
 	<p align="center">
 		<b>Polar Coordinate Representation of Price Volatility on 2021-01-15</b><br><br><img src = "img/gdfarray.png" alt="gdfarray" width=600><br><br>
-		<b>Gramian Angular Field Image Representation of Price Volatility on 2021-01-15</b><br><br><img src = "img/report_img/gdf_20200115.png" alt="gdf"><br>
-</p>
-</p>
+		<b>Gramian Angular Field Image Representation of Price Volatility on 2021-01-15</b><br><br><img src = "img/report_img/gdf_20200115.png" alt="gdf"><br></p>
+		</p>
+		</p>
 
 ### Interested in reading more? 
 Please review our **Report**(add link to report later) for more detailed mathematical explanations!
