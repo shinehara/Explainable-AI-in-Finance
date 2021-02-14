@@ -23,7 +23,7 @@ While many might understand or relate "Artificial Intelligence" to <b>Terminator
 <p align="justify">
 Artificial Intelligence in actuality however does not directly refer to robotics, machineries, or intelligent bodies like such, but may be more appositely described as algorithms of various forms. </p>
 <p align="center">
-  <img src="img/ml-and-dl.png" alt="ml-and-dl" width=250> <br>Source from: <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.altabel.com%2F2018%2F08%2F17%2Fdeep-learning-vs-machine-learning%2F&psig=AOvVaw0HgKLH9mP3vLK9ftHAkISH&ust=1613373634955000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODPvKXr6O4CFQAAAAAdAAAAABAD">Google Image</a>
+  <img src="img/ml-and-dl.png" alt="ml-and-dl" width=550> <br>Source from: <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.altabel.com%2F2018%2F08%2F17%2Fdeep-learning-vs-machine-learning%2F&psig=AOvVaw0HgKLH9mP3vLK9ftHAkISH&ust=1613373634955000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODPvKXr6O4CFQAAAAAdAAAAABAD">Google Image</a>
   </p>
   
 <p align="justify">
