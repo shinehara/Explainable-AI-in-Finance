@@ -38,9 +38,9 @@ In context of our work, stock volatility is also carefully defined after prior r
   <img src="img/teslaback.jpg" alt="teslaback" width=500>
   <br>Source from: <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fteslanetapp&psig=AOvVaw3yq5p5CD2wGKiF0f8qAkje&ust=1613366359782000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC20ZvQ6O4CFQAAAAAdAAAAABAJ">Image Source</a>
 </p>
-	 The following figure shows the closing price of <i>TSLA</i> from 2019-1-30 to 2021-01-15.
+	 The following figure shows the closing price of <i>TSLA</i> from 2019-1-30 to 2021-01-15.<br>
 	<p align="center"> 
-	<br>Closing Price of TSLA from 2019-1-30 to 2021-1-15
+	<b>Closing Price of TSLA from 2019-1-30 to 2021-1-15</b><br>
   <img src="img/report_img/raw_data_close.png" alt="raw_data_close" width=600><br>
 </p>
 	Judging by the high volatility this time series trend displays, we believe <i>TSLA</i> would be a suitable and interesting subject for study.
