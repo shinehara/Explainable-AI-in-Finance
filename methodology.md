@@ -11,7 +11,7 @@
 
 ## What did we do?
 <p align="center">
-	<img src="img/research.png" alt="research">
+	<img src="img/research.png" alt="research" width=450> <img src="img/neuralnetwork.png" alt="nn" width=250>
 	<br>Source from: <a href = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8d3b1m2A0G6b1_way-clipart-primary-research-primary-research-icon-png%2F&psig=AOvVaw1chN3O6GBLoN1oxO_oe6to&ust=1613372664585000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjzi5zo6O4CFQAAAAAdAAAAABAD">Google Image</a>
 	</p>
 	
