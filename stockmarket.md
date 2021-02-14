@@ -53,7 +53,7 @@ By comparing the original closing price of TSLA on January 15th, 2021 as well as
 	<b>Price Volatility of TSLA on 2021-01-15</b><br>
   <img src="img/report_img/tsla_all_20210115_vol.png" alt="20210115_vol" width=600><br>
 </p>
-
+This project's prediction task therefore builds upon this observation and the understanding that <i>pre-market stock volatility might be a helpful indicator for market behaviors after market open</i>. We then demonstrate this via research into modelling these stock volatilities with CNN recognition.
 </p>
 
 ### Support or Contact
