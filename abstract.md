@@ -24,10 +24,3 @@
   
   Carry on to read more in detailed <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/abstract">Project Introduction</a>!
   </p>
-
-### Support or Contact
-
-Interested in learning more? Check out our [Documentation](https://github.com/leeso1718/StockMarket_explainableAI) or contact us @
-- [Sohyun Lee](mailto:sol107@ucsd.edu)
-- [Shin Ehara](mailto:sehara@ucsd.edu)
-- [Jou-Ying Lee](mailto:jol067@ucsd.edu)
