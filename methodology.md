@@ -12,7 +12,7 @@
 ## What did we do?
 <p align="center">
 	<img src="img/research.png" alt="research" width=500> <img src="img/neuralnetwork.png" alt="nn" width=250>
-	<br>Source from: <a href = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fneural_2103658&psig=AOvVaw3t5nNCkWAg1mfPkWdOJYS2&ust=1613372951333000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiVs-Lo6O4CFQAAAAAdAAAAABAM">Google Image</a>
+	<br>Source from: <a href = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8d3b1m2A0G6b1_way-clipart-primary-research-primary-research-icon-png%2F&psig=AOvVaw3PtYpOoz-c-ekrD9ggowPL&ust=1613373453823000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJja6dLq6O4CFQAAAAAdAAAAABAD">Google Image</a>, <a href = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fneural_2103658&psig=AOvVaw3t5nNCkWAg1mfPkWdOJYS2&ust=1613372951333000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiVs-Lo6O4CFQAAAAAdAAAAABAM">Google Image</a>
 	</p>
 	
 <p align="justify">
