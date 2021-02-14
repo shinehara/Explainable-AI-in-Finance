@@ -1,6 +1,13 @@
 ## Navigation 
 - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance">HomePage</a>
-- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/abstract">Project Abstract</a>
+- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/abstract">Project Details</a>
+  - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/introduction">Introduction</a>
+  - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/stockmarket">Stock Market</a>
+  - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/result">Prediction Result</a>
+- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/methodology">Technical Methodology</a>
+	- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/gaf">Gramian Angular Field</a> 
+	- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/fastai">FastAI CNN Model</a>
+	- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/gradcam">Grad-CAM Algorithm</a>
 
 ## Welcome to Explainable AI!
 
@@ -21,7 +28,3 @@
   This project is thereby carefully structured after attempt to address this problem. We aim to add and build trust into deep learning systems by introducing more explainability into machine learning. Specifically, we chose one of the most complicated application for both prediction and explanation – and that is the area of finance, i.e., this research works towards introducing interpretability into modeling in the stock market, to enable users of more trustable insights and references during investment decision makings. In specific, we investigate the predictability of stock market through studying a risk measurement of the stock market, i.e., “stock volatility”. Additionally, we pick to base the project on one of the least predictable stock indexes: to study the volatility of Tesla’s stock indexes. 
 
 </p>
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
