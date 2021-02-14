@@ -37,7 +37,7 @@ Excitingly, this project forms its basis on <b>Tesla's Stock Predictions</b> and
 ### Support or Contact
 
 Interested in learning more? Check out our [Documentation](https://github.com/leeso1718/StockMarket_explainableAI) or contact us @
-- [Sohyun Lee](sol107@ucsd.edu)
-- [Shin Ehara](sehara@ucsd.edu)
-- [Jou-Ying Lee](jol067@ucsd.edu)
+- [Sohyun Lee](mailto:sol107@ucsd.edu)
+- [Shin Ehara](mailto:sehara@ucsd.edu)
+- [Jou-Ying Lee](mailto:jol067@ucsd.edu)
 
