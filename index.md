@@ -3,10 +3,11 @@
 - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/abstract">Project Details</a>
   - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/introduction">Introduction</a>
   - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/stockmarket">Stock Market</a>
+  - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/result">Prediction Result</a>
 - <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/methodology">Technical Methodology</a>
+	- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/agf">Gramian Angular Field</a> 
 	- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/fastai">FastAI CNN Model</a>
 	- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/gradcam">Grad-CAM Algorithm</a>
-- <a href = "https://connielee99.github.io/Explainable-AI-in-Finance/discussion">Discussion & Conclusion</a>
 
 ## Welcome to Explainable AI!
 
