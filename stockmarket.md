@@ -26,12 +26,11 @@
 In particular, we choose to monitor the price volatility before and after market opens. As prior work has suggested, <i><b>the volatility in the pre-market session might be a good indication of what might happen immediately after the market is open <a href = "towardsdatascience.com/image recognition-vs-other-techniques-in-predicting-the-financial-market-55548d4cda4">(Bai)</a></b></i>, and therefore is selected as the factor for prediction in the stock market. 
 
 In context of our work, stock volatility is also carefully defined after prior research and structured to incorporate our need on measuring the stock variance. In specific, we capture characteristics of time series data by <i><b>approximating the volatility by using the high price minus the low price within the minute bar, and apply a rolling mean window of size N <a href = "towardsdatascience.com/image recognition-vs-other-techniques-in-predicting-the-financial-market-55548d4cda4">(Bai)</a></b></i>.
-
+</p>
+<p align="center"> 
+  <img src="img/volequation.png" alt="vol" width=250>
 </p>
 
-\begin{align*}
-\frac{1}{2}
-\end{align*}
 
 ### Support or Contact
 
