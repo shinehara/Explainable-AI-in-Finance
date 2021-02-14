@@ -16,8 +16,8 @@
 	<p align="center">
 	<img src="img/ts.png" alt="timeseries" width=300>    <img src="img/imgicon.png" alt="img" width=300><br>
 		Source: <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdinhanhthi.com%2Ftime-series-tips%2F&psig=AOvVaw1kKcUJwJ1b3NaiVB4Qa96x&ust=1613374510800000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjAk8ju6O4CFQAAAAAdAAAAABAa">Google Image</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Source: <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fillusticon.com%2F%3Fid%3D1000&psig=AOvVaw3Q0awEoO0yF6ICRFxsWIYQ&ust=1613374988591000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiG76_w6O4CFQAAAAAdAAAAABAJ">Google Image</a>
-		</p>
-<p>
+</p>
+</p>
 
 ## Gramian Angular Field
 <p align="center"><b>Various steps of the Gramian Angular Field Conversion</b><img src = "img/report_img/gdf_step.gif" alt="gdfstep"><br>Image developed by: <a href="https://medium.com/analytics-vidhya/encoding-time-series-as-images-b043becbdbf3">Louis de Vitry</a></p>
