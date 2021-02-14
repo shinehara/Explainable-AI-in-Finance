@@ -43,7 +43,16 @@ In context of our work, stock volatility is also carefully defined after prior r
 	<b>Closing Price of TSLA from 2019-1-30 to 2021-1-15</b><br>
   <img src="img/report_img/raw_data_close.png" alt="raw_data_close" width=600><br>
 </p>
-	
+
+<b><i>In principle, the volatility should be high when there is a large price movement <a href = "towardsdatascience.com/image recognition-vs-other-techniques-in-predicting-the-financial-market-55548d4cda4">(Bai)</a></i></b>. This can be shown via an example (and we take data from January 15th, 2021 for demonstration).
+
+By comparing the original closing price of TSLA on January 15th, 2021 as well as the volatility on these prices during the same period, We can observe that the stock volatility tends to be the highest right after the market open and to be lower during the pre-market session compared to the market hours.
+<p align="center"> 
+	<b>Closing Price of TSLA on 2021-01-15</b><br>
+  <img src="img/report_img/tsla_all_20210115_close.png" alt="20210115_close" width=600><br>
+	<b>Price Volatility of TSLA on 2021-01-15</b><br>
+  <img src="img/report_img/tsla_all_20210115_vol.png" alt="20210115_vol" width=600><br>
+</p>
 
 </p>
 
