@@ -11,8 +11,8 @@
 
 ## What did we do?
 <p align="center">
-	<img src="img/research.png" alt="research">
-	<br>Source from: <a href = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8d3b1m2A0G6b1_way-clipart-primary-research-primary-research-icon-png%2F&psig=AOvVaw1chN3O6GBLoN1oxO_oe6to&ust=1613372664585000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjzi5zo6O4CFQAAAAAdAAAAABAD">Google Image</a>
+	<img src="img/research.png" alt="research" width=500> <img src="img/neuralnetwork.png" alt="nn" width=250>
+	<br>Source from: <a href = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8d3b1m2A0G6b1_way-clipart-primary-research-primary-research-icon-png%2F&psig=AOvVaw3PtYpOoz-c-ekrD9ggowPL&ust=1613373453823000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJja6dLq6O4CFQAAAAAdAAAAABAD">Google Image</a>, <a href = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fneural_2103658&psig=AOvVaw3t5nNCkWAg1mfPkWdOJYS2&ust=1613372951333000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiVs-Lo6O4CFQAAAAAdAAAAABAM">Google Image</a>
 	</p>
 	
 <p align="justify">
@@ -26,6 +26,6 @@ While most prevalent approaches to stock prediction might base around modelling 
 	<br>Source from: <a href = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zoho.com%2Fcreator%2Fnewhelp%2Fforms%2Ffields%2Fprediction%2F&psig=AOvVaw0RDx95XJPea_VQKHV0ufZH&ust=1613371512189000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD3o7Pj6O4CFQAAAAAdAAAAABAD">Google Image</a>
 	</p>
 
-1. Encode time series data as images via Gramian Angular Field.<br>
-2. Train CNN model for pattern learning.<br>
-3. Apply Grad-CAM algorithm over the learned CNN model for visual explanations.<br>
+1. Encode time series data as images via [Gramian Angular Field](https://connielee99.github.io/Explainable-AI-in-Finance/gaf).<br>
+2. Train [CNN model](https://connielee99.github.io/Explainable-AI-in-Finance/fastai) for pattern learning.<br>
+3. Apply [Grad-CAM](https://connielee99.github.io/Explainable-AI-in-Finance/gradcam) algorithm over the learned CNN model for visual explanations.<br>
