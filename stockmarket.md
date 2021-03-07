@@ -12,24 +12,30 @@
 ## Stock Market
 
 <p align="justify">
-	  The stock market is undoubtedly one of the most unpredictable, yet most popular areas for financial investment. Through facilitating exchanges of securities between buyers and sellers, this marketplace creates opportunities of capital gain for participants ranging from small individuals to big entities such as banks or conglomerates.
+	  While there are countless financial measures in security discussions, this study focuses on one of the most direct assessments, i.e., the closing stock price. “The closing price is considered the most accurate valuation of a stock or other security until trading resumes on the next trading day” and is defined as “the last price at which the stock traded during the regular trading day” (Kenton). 
+	<br><br>As we purposefully structured this project as a classification task, this target for investigation is therefore transformed to be introduced as a binary label for model learning. For our project’s investigation purposes, we assign one class only to each day to represent trades that happen on that day. In specific, we compare the opening price to the closing price of a specific day in order to make a careful call on assigning an “increase” or “decrease” label to the combined daily stock entries.
+	<br><br>The India’s National Market Exchange market opens on 9:15 AM, and marks market closing on 3:30 PM across weekdays. We turned away from traditional considerations on pre-market hours and after-market hours for study, and adapted our target of investigation to be the price difference between the earliest opening price and latest closing price trading entries during a day. If this difference is of a positive output that signals an “increase” in stock value, while a negative output suggests the opposite. Therefore, summarizing that described above, given a particular day, we have our binary labels represented as the following:
+![image](https://user-images.githubusercontent.com/49182792/110249248-4398ef80-7fb0-11eb-9abe-e94c1e064fd3.png)
+
 <p align="center"> 
   <img src="img/nse.png" alt="nyse" width=600>
   <br>Source from: <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nseindia.com%2F&psig=AOvVaw0LlyWlHOjM2IkaweHbaZqs&ust=1615225261667000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCIjJLdnu8CFQAAAAAdAAAAABAD">National Stock Exchange of Indea, Ltd.</a>
 </p>
 </p>
 
-## Stock Volatility
+## Stock Market Price Change (Label)
 
 <p align="justify">
-	Volatility of the stock market <i><b>is a statistical measure of the dispersion of returns for a given security of market index. In most cases, the higher the volatility, the riskier the security <a href = "https://www.investopedia.com/terms/v/volatility.asp">(Investopedia)</a></b></i>. Stability of prices is therefore a key factor for investors to review – for the less risky an option is, the more predictable it gets, and thereby the easier it is for one to judge if such investment might be profitable or not.
-	
-In particular, we choose to monitor the price volatility before and after market opens. As prior work has suggested, <i><b>the volatility in the pre-market session might be a good indication of what might happen immediately after the market is open <a href = "towardsdatascience.com/image recognition-vs-other-techniques-in-predicting-the-financial-market-55548d4cda4">(Bai)</a></b></i>, and therefore is selected as the factor for prediction in the stock market. 
+	While there are countless financial measures in security discussions, this study focuses on one of the most direct assessments, i.e., the closing stock price. “The closing price is considered the most accurate valuation of a stock or other security until trading resumes on the next trading day” and is defined as “the last price at which the stock traded during the regular trading day” (Kenton). 
 
-In context of our work, stock volatility is also carefully defined after prior research and structured to incorporate our need on measuring the stock variance. In specific, we capture characteristics of time series data by <i><b>approximating the volatility by using the high price minus the low price within the minute bar, and apply a rolling mean window of size N <a href = "towardsdatascience.com/image recognition-vs-other-techniques-in-predicting-the-financial-market-55548d4cda4">(Bai)</a></b></i>.
+<br><br>As we purposefully structured this project as a classification task, this target for investigation is therefore transformed to be introduced as a binary label for model learning. For our project’s investigation purposes, we assign one class only to each day to represent trades that happen on that day. In specific, we compare the opening price to the closing price of a specific day in order to make a careful call on assigning an “increase” or “decrease” label to the combined daily stock entries.
+
+<br><br>The India’s National Market Exchange market opens on 9:15 AM, and marks market closing on 3:30 PM across weekdays. We turned away from traditional considerations on pre-market hours and after-market hours for study, and adapted our target of investigation to be the price difference between the earliest opening price and latest closing price trading entries during a day. If this difference is of a positive output that signals an “increase” in stock value, while a negative output suggests the opposite. Therefore, summarizing that described above, given a particular day, we have our binary labels represented as the following:
+![image](https://user-images.githubusercontent.com/49182792/110249295-7f33b980-7fb0-11eb-90eb-4db657195aa6.png)
+
 </p>
 <p align="center"> 
-  <img src="img/volequation.png" alt="vol" width=250>
+  <img src="img/pricelabel.png" alt="vol" width=250>
 </p>
 
 ## Tesla Stock Data
